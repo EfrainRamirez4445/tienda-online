@@ -27,4 +27,4 @@ BUENAS PRÁCTICAS
 - Texto alternativo (alt) en las imágenes.
 
 ENLACE DE GITHUB
-(pegar aquí el enlace de tu repositorio)
+https://github.com/EfrainRamirez4445/tienda-online
